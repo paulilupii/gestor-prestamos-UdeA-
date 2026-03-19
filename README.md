@@ -1,2 +1,8 @@
-# ** gestor-prestamos-UdeA-**
-En este repositoriodemostraremos las capacidades de los estudiantes para resolver un problema
+# **gestor-prestamos-UdeA🐥**
+
+# *integrantes*
+## **paulina rodriguez**
+### Descripcion
+> soy una joven estudiante de ingenieria industrial y mi meta es aprender aprogrmar un poquito
+## **Roberto carlos**
+> el es un compañero de inenieria industrial quwe es teso para programar 
